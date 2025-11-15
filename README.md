@@ -2,8 +2,9 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Ruby](https://img.shields.io/badge/Ruby-3.x-red)
-![License](https://www.gnu.org/licenses/gpl-3.0.txt)
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 ![NeuralNetworks](https://img.shields.io/badge/AI-Neural_Networks-orange)
+
 
 ---
 
@@ -154,9 +155,16 @@ GRYDRA.generate_example(1)
 ## 🧭 Project Structure
 
 ```
-/grydra
+/GRYDRA
+ ├── gems/
+ │   ├── grydra-0.1.7.gem
+ │   ├── grydra-0.1.8.gem
+ │   ├── grydra-0.1.9.gem
+ │   ├── grydra-0.2.0.gem
+ │   └── grydra-1.0.0.gem
  ├── lib/
- │   ├── core.rb
+ │   └── gr/
+ │       └── core.rb
  ├── README.md
  └── LICENCE
 ```
