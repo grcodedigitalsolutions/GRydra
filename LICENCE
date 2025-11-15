@@ -1,0 +1,34 @@
+GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2025 GR code Digital solutions
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+La Licencia Pública General GNU (GPL) es una licencia libre de software que garantiza la libertad de compartir y modificar el software mientras se preserva esta misma libertad para todos los usuarios.
+
+El objetivo de esta licencia es asegurar que todos los usuarios del software tengan la libertad de ejecutar, estudiar, compartir y modificar el programa. 
+
+El texto completo en inglés es el documento legalmente válido, y puede consultarse en:
+https://www.gnu.org/licenses/gpl-3.0.html
+
+Para cumplir con esta licencia, cualquier distribución o modificación de este software debe mantener la misma licencia y proporcionar acceso al código fuente completo.
+
+                            TERMS AND CONDITIONS
+
+Este software se distribuye bajo los términos de la GNU General Public License versión 3.  
+Esto significa que:
+
+1. Puedes usar, copiar, modificar y distribuir este software libremente.
+2. Si redistribuyes versiones modificadas, también deben ser GPL v3.
+3. No hay garantía: el software se ofrece “TAL CUAL”, sin responsabilidad por fallos o daños.
+
+Para más detalles, lee el texto completo en inglés:  
+<https://www.gnu.org/licenses/gpl-3.0.txt>
+
+------------------------------------------------------------
+GRYDRΑ — Neural Network Library for Ruby  
+Copyright (C) 2025 GR code Digital solutions  
+Licensed under the GNU GPL v3 or later
