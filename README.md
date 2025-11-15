@@ -1,9 +1,8 @@
-
 # GRYDRA
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Ruby](https://img.shields.io/badge/Ruby-3.x-red)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![License](https://www.gnu.org/licenses/gpl-3.0.txt)
 ![NeuralNetworks](https://img.shields.io/badge/AI-Neural_Networks-orange)
 
 ---
@@ -32,7 +31,7 @@ GRYDRA is a Ruby gem for building, training, and deploying neural networks. Supp
 
 ## 📥 Installation
 
-### Install via Gem (soon)
+### Install via Gem
 ```bash
 gem install grydra
 ````
@@ -157,30 +156,13 @@ GRYDRA.generate_example(1)
 ```
 /grydra
  ├── lib/
- │   ├── grydra.rb
- │   ├── networks/
- │   ├── layers/
- │   ├── utils/
- │   └── optimizers/
- ├── examples/
+ │   ├── core.rb
  ├── README.md
  └── LICENCE
 ```
 
 ---
 
-## 📌 Roadmap
-
-* CLI tool
-* More activation functions
-* More optimizers (RMSProp, AdaGrad)
-* Visualization dashboard
-* GPU acceleration (future)
-
----
-
 ## 📜 License
 
-[MIT License](LICENCE)
-
-
+[GNU License](LICENCE)
