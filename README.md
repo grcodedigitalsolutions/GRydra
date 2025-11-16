@@ -171,6 +171,48 @@ GRYDRA.generate_example(1)
 
 ---
 
+## 💙 Support Gabo-Razo
+<center>
+If this project has been useful, consider supporting **Gabo-Razo** via GitHub Sponsors.  
+Your contribution helps keep development active and improve future releases.
+
+</center>
+
+---
+
+<div align="center">
+
+  <img 
+    src="https://avatars.githubusercontent.com/u/219750358?v=4" 
+    width="90" 
+    style="border-radius: 50%; margin-bottom: 12px;"
+  />
+
+  <p style="font-size: 22px; font-weight: 800; margin: 0;">
+    Gabo-Razo
+  </p>
+
+  <p>
+    <strong>Developer • Ruby • Python • C++ • Java • Dart • COBOL</strong>
+  </p>
+
+  <p>
+    <a href="https://github.com/Gabo-Razo?tab=followers">
+      ⭐ Follow on GitHub
+    </a>
+  </p>
+
+  <a href="https://github.com/sponsors/Gabo-Razo">
+    <img 
+      src="https://img.shields.io/badge/Sponsor_Me-FF4081?style=for-the-badge&logo=githubsponsors&logoColor=white"
+      height="44"
+    />
+  </a>
+
+</div>
+
+---
+
 ## 📜 License
 
 [GNU License](LICENCE)
